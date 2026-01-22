@@ -86,6 +86,6 @@
 
 
 
-num = int(input("Table of: "))
+num = int(input("Table of the number: "))
 for i in range(1,11):
     print(num*i)
